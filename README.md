@@ -6,4 +6,4 @@ sudo cp hw3.0/* /lib/firmware/ath10k/QCA6174/hw3.0/
 sudo cp ath10k.conf /etc/modprobe.d/
 Reboot
 
-<img src="https://github.com/KeeganRen/Killer-Doubleshot/blob/master/imgs/Keegan.png" height="349" width="486" >
+<img src="https://github.com/KeeganRen/Killer-Doubleshot/blob/master/imgs/Keegan.png" height="486" width="349" >
